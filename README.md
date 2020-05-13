@@ -4,8 +4,8 @@ This repository contains the code examples that accompany the DZone staff presen
 ## Running the Tests
 Before running the tests, the following must be installed:
 
-# Java
-# Maven
+- Java
+- Maven
 
 To run the unit tests for this example, execute the following on the command line:
 
